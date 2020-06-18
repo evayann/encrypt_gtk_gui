@@ -1,0 +1,98 @@
+# English translations for Coder package.
+# Copyright (C) 2020 THE Coder'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the Coder package.
+# Yann Zavattero <yann.zavattero@hotmail.com>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Coder\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-06-17 20:49+0200\n"
+"PO-Revision-Date: 2020-06-17 20:58+0200\n"
+"Last-Translator: Yann Zava <yann.zavattero@hotmail.com>\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../code.glade:219
+msgid "Adapta's Theme"
+msgstr "Adapta's Theme"
+
+#: ../code.glade:113
+msgid "Binary"
+msgstr "Binary"
+
+#: ../code.glade:203
+msgid "Change theme from lighten to darken"
+msgstr "Change theme from lighten to darken"
+
+#: ../code.glade:21 ../code.glade:41
+msgid "Code"
+msgstr "Code"
+
+#: ../code.glade:7
+msgid "Code / Decode"
+msgstr "Code / Decode"
+
+#: ../code.glade:204
+msgid "Dark Theme"
+msgstr "Dark Theme"
+
+#: ../code.glade:32 ../code.glade:157
+msgid "Decode"
+msgstr "Decode"
+
+#: ../code.glade:193
+msgid "Display"
+msgstr "Display"
+
+#: ../code.glade:218
+msgid "Enable Adapta Theme"
+msgstr "Enable Adapta Theme"
+
+#: ../code.glade:252
+msgid "English"
+msgstr "English"
+
+#: ../code.glade:243
+msgid "French"
+msgstr "French"
+
+#: ../code.glade:265
+msgid "Help"
+msgstr "Help"
+
+#: ../code.glade:233
+msgid "Language"
+msgstr "Language"
+
+#: ../code.glade:183
+msgid "Quit app"
+msgstr "Quit app"
+
+#: ../code.glade:232
+msgid "Select language"
+msgstr "Select language"
+
+#: ../code.glade:132
+msgid "Shift (Cesar)"
+msgstr "Shift (Cesar)"
+
+#: ../main.py:114
+msgid "Your text to "
+msgstr "Your text to "
+
+#: ../main.py:115
+msgid "code"
+msgstr "code"
+
+#: ../main.py:116
+msgid "decode"
+msgstr "decode"
+
+#: ../main.py:118
+msgid "code/decode"
+msgstr "code/decode"
